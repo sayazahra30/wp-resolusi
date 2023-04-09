@@ -1,0 +1,3 @@
+wp RESOLUSI
+- membuat platfrom untuk pengelolaan video
+- membuat forum diskusi
